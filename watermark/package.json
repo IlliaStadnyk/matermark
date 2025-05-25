@@ -1,0 +1,12 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/IlliaStadnyk/matermark.git",
+  "author": "illia",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
